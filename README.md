@@ -2,11 +2,11 @@
 
 MATLAB implementation of flexible block classical Gram-Schmidt with reorthogonalization. The following scripts are extracted from the [BlockStab](https://github.com/katlund/BlockStab) package:
 
-* `cholqr.m``mgs.m``CreateGluedMatrix.m``MatGen.m``matProps.m`
+* `cholqr.m` `mgs.m` `CreateGluedMatrix.m` `MatGen.m` `matProps.m`
 
 One can run the following files to compare block classical Gram-Schmidt algorithms:
 
-* `KappaPlot.m``GluedKappaPlot.m``MatGenCmp.m`
+* `KappaPlot.m` `GluedKappaPlot.m` `MatGenCmp.m`
 
 ## References
 
