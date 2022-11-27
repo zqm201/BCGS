@@ -21,7 +21,7 @@ p = n / s;
 
 kk = 1:s;
 sk = 0;
-[QQ(:,kk), RR(kk,kk)] = house(XX(:,kk));
+[QQ(:,kk), RR(kk,kk)] = fun2(XX(:,kk));
 
 for k = 2:p
     kk = kk + s;
